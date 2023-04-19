@@ -10,12 +10,7 @@ public class BowlingGameTest {
     public void setUp(){
         g = new Game();
     }
-
-    @Test
-    public void createGame(){
-        g = new Game();
-    }
-
+    
     @Test
     public void rollABall(){
         g = new Game();
