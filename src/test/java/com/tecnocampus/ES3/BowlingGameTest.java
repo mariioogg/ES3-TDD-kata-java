@@ -5,19 +5,20 @@ import org.junit.jupiter.api.Test;
 
 public class BowlingGameTest {
 
+    private Game g;
     @BeforeEach
     public void setUp(){
-        var g = new Game();
+        g = new Game();
     }
 
     @Test
     public void createGame(){
-        var g = new Game();
+        g = new Game();
     }
 
     @Test
     public void rollABall(){
-        var g = new Game();
+        g = new Game();
         g.roll(0);
     }
 
