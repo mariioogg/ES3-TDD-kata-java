@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 public class BowlingGameTest {
 
     @Test
-    public void succeed() {
-
+    public void createGame(){
+        var g = new Game();
     }
 }
