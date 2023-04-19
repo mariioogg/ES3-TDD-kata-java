@@ -1,3 +1,5 @@
 Posar correspondència de nom d'usuari de GitHub amb nom real
 
-priera -> Pedro Riera
+mariioogg --> Mario Gregorio
+
+mgr4um --> Marc Grau

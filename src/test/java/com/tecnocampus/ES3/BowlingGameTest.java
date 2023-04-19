@@ -8,4 +8,10 @@ public class BowlingGameTest {
     public void createGame(){
         var g = new Game();
     }
+
+    @Test
+    public void rollABall(){
+        var g = new Game();
+        g.roll(0);
+    }
 }
